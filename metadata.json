@@ -1,0 +1,5 @@
+{
+  "name": "II— Quote & Invoice Generator",
+  "description": "An internal tool for Sales and Admin to create professional quotes and invoices. It allows for creating quotes, converting them to invoices upon acceptance, and exporting branded PDFs. The application manages clients, items, and predefined packages to streamline the sales workflow.",
+  "requestFramePermissions": []
+}
